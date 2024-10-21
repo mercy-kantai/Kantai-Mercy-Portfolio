@@ -4,7 +4,7 @@ const Header = () => {
       <header className="bg-green-900 text-white shadow-md sticky top-0 z-50 ">
         <nav className="container mx-auto p-4">
           <ul className="flex justify-between">
-            <li><Link href="/">Home</Link></li>
+            <li><Link href="/Components/hero">Home</Link></li>
             <li><Link href="#about">About</Link></li>
             <li><Link href="#services">Services</Link></li>
             <li><Link href="#portfolio">Project</Link></li>
