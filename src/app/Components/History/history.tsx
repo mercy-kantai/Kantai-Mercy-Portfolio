@@ -14,7 +14,7 @@ const History = () => {
               <p className="text-lg darker grotesque">A mentorship platform that allows mentees to view their mentors profile
                         and update and track their accomplishments and tasks they need to
                         achieve</p>
-              <a href="https://akirachix-mentorship-program.vercel.app/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.figma.com/design/vWoKfBRcJSUupm2gYvYzg3/Umoja-Mentorship-Project?node-id=0-1&t=CiotVitmfUWIqBLA-1" target="_blank" rel="noopener noreferrer">
     <button className="bg-yellow-500 hover:bg-yellow-400 text-black font-semibold py-4 px-12 rounded mt-8 ml-8">
       View
     </button>
