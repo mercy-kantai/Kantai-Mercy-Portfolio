@@ -2,6 +2,7 @@
 
 const Footer = () => {
   return (
+    <div id="footer">
     <footer className="bg-green-900 text-white py-8">
       <div className="container mx-auto px-4">
      
@@ -27,6 +28,7 @@ const Footer = () => {
         </div>
       </div>
     </footer>
+    </div>
   );
 };
 

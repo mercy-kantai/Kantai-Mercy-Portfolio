@@ -1,6 +1,7 @@
 import Image from "next/image";
 const History = () => {
     return (
+      <div>
       <section id="history" className="py-16 text-center bg-gray-200">
         <div className="container mx-auto">
           <h2 className="text-[30px] font-semibold mb-6 darker grotesque">My Projects</h2>
@@ -11,8 +12,8 @@ const History = () => {
               <h3 className="text-2xl font-bold mb-4 darker grotesque"> Umoja Mentorship</h3>
               <Image src="/images/mentor.png" alt="mentor" width={400} height={400}/>
               <p className="text-lg darker grotesque">A mentorship platform that allows mentees to view their mentors profile
-and update and track their accomplishments and tasks they need to
-achieve</p>
+                        and update and track their accomplishments and tasks they need to
+                        achieve</p>
               <a href="https://akirachix-mentorship-program.vercel.app/" target="_blank" rel="noopener noreferrer">
     <button className="bg-yellow-500 hover:bg-yellow-400 text-black font-semibold py-4 px-12 rounded mt-8 ml-8">
       View
@@ -45,6 +46,7 @@ achieve</p>
           </div>
         </div>
       </section>
+      </div>
     );
   };
   export default History;

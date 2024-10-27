@@ -30,7 +30,7 @@ export default function RootLayout({
       <link rel="manifest" href="/manifest.json" />
       <meta name="description" content="Mercy" />
       <meta name="theme-color" content="#000000" />
-      <link rel="apple-touch-icon" href="/images/Mercy.jpg" />
+      <link rel="apple-touch-icon" href="/images/Logo.png" />
       <meta name="apple-mobile-web-app-capable" content="yes" />
       <meta name="apple-mobile-web-app-status-bar-style" content="black" />
       </head>

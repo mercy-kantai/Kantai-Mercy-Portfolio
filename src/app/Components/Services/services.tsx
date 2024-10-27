@@ -1,6 +1,7 @@
 import Image from "next/image";
 const Services = () => {
     return (
+      <div id="services">
       <section id="services" className="bg-gray-200 py-16">
         <div className="container mx-auto text-center">
           <h2 className="text-[30px] font-semibold mb-6">What I Can Do Best</h2>
@@ -86,18 +87,10 @@ const Services = () => {
             </div>
             
 
-        
-         
-
-
-            
-            
-
-
-
             </div>
         </div>
       </section>
+      </div>
     );
   };
   

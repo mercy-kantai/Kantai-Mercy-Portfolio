@@ -58,6 +58,7 @@ const Hero = () => {
     setIsOpen(false);
   };
   return (
+    <div id="hero">
     <section className="bg-green-800 text-white py-10 md:py-20">
       <div className="container mx-auto flex flex-col md:flex-row items-center gap-8 md:gap-12 p-4 md:p-8">
         <div className="w-full md:w-1/2 flex justify-center">
@@ -141,6 +142,7 @@ const Hero = () => {
         </div>
       </div>
     </section>
+    </div>
   );
 };
 
