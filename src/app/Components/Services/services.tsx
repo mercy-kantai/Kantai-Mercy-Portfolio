@@ -4,7 +4,7 @@ const Services = () => {
       <div id="services">
       <section id="services" className="bg-gray-200 py-16">
         <div className="container mx-auto text-center">
-          <h2 className="text-[30px] font-semibold mb-6">What I Can Do Best</h2>
+          <h2 className="text-[30px] font-semibold mb-6">My Skills And Expertise</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-[5%]">
 
           <div className="bg-white p-6 rounded-lg shadow-md darker grotesque">
