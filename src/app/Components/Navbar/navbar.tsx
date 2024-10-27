@@ -19,7 +19,7 @@ export default function Navbar() {
           <div className="md:hidden mr-[5%] mt-[5%]">
             <button 
               onClick={() => setIsOpen(!isOpen)} 
-              className="text-black focus:outline-none">
+              className="text-white focus:outline-none">
               {isOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
             </button>
           </div>
@@ -42,11 +42,11 @@ export default function Navbar() {
             <FaTimes size={24} />
           </button>
 
-          <a href="#hero" className="block text-white">Home</a>
-          <a href="#about" className="block text-white">About Us</a>
-          <a href="#services" className="block text-white">Our Product</a>
-          <a href="#history" className="block text-white">Contact Us</a>
-          <a href="#footer" className="block text-white">FAQs</a>
+          <a href="#hero" className=" text-black">Home</a>
+          <a href="#about" className="block text-black">About Me</a>
+          <a href="#services" className="block text-black">Courses</a>
+          <a href="#history" className="block text-black">Projects</a>
+          <a href="#footer" className="block text-black">Contact</a>
         </div>
       )}
     </nav>
