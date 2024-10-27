@@ -22,11 +22,11 @@ const About = () => {
             About Me
           </h2>
           <p className="text-[18px] sm:text-[20px] text-black leading-relaxed mx-auto md:mx-0 darker grotesque max-w-[100%] sm:max-w-full">
-          I am a passionate designer and mobile developer dedicated to creating innovative and user-centered solutions. With a keen eye for aesthetics and a strong technical background, I thrive at the intersection of design and technology. My journey in the digital world has allowed me to develop a diverse skill set, enabling me to craft engaging user experiences that not only look great but also function seamlessly.
+          I am a passionate designer and mobile developer dedicated to creating innovative and user-centered solutions. With a keen eye for aesthetics and a strong technical background, I thrive at the intersection of design and technology. My journey in the digital world has allowed me to develop a diverse skill set enabling me to craft engaging user experiences that not only look great but also function seamlessly.
 
-I believe that great design goes beyond just visuals; it is about understanding user needs and solving real-world problems. Whether I am designing intuitive interfaces or developing robust mobile applications, I am committed to delivering high-quality work that resonates with users.
+I believe that great design goes beyond just visuals. It is about understanding user needs and solving real-world problems. Whether I am designing intuitive interfaces or developing robust mobile applications. I am committed to delivering high-quality work that resonates with users.
 
-When I'm not designing or coding, you can find me exploring the latest design trends, experimenting with new technologies, or contributing to open-source projects. I am excited about the future of mobile development and design, and I look forward to collaborating on projects that make a difference!
+When I am not designing or coding you can find me exploring the latest design trends experimenting with new technologies or contributing to open-source projects. I am excited about the future of mobile development and design and I look forward to collaborating on projects that make a difference.
           </p>
         </div>
       </div>
