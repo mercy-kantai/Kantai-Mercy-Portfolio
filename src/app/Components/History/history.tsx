@@ -35,7 +35,7 @@ const History = () => {
             <div className="bg-white p-6 rounded shadow-lg darker grotesque">
               <h3 className="text-2xl font-bold mb-4">Bheta Solutions</h3>
               <Image src="/images/bheta.png" alt="bheta" width={400} height={400}/>
-              <p className="text-lg darker grotesque" >An Progressive Web App that allows users to verify medication safety by capturing or uploading images of batch numbers.</p>
+              <p className="text-lg darker grotesque" >A Progressive Web App that allows users to verify medication safety by capturing or uploading images of batch numbers.</p>
               <a href="https://www.figma.com/design/M6hluRiqAMYZIhHoIgpHBZ/Bheta-PWA-designs?node-id=265-2&t=66gbIXrbJbXzVlDZ-1" target="_blank" rel="noopener noreferrer">
     <button className="bg-yellow-500 hover:bg-yellow-400 text-black font-semibold py-4 px-12 rounded mt-8 mr-8">
       View
