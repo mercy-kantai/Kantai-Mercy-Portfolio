@@ -23,7 +23,7 @@ const History = () => {
             
             <div className="bg-white p-6 rounded shadow-lg">
               <h3 className="text-2xl font-bold mb-4 darker grotesque">Event Booking App</h3>
-              <Image src="/images/corktail.png" alt="corktail" width={400} height={400}/>
+              <Image src="/images/event.png" alt="corktail" width={400} height={400}/>
               <p className="text-lg darker grotesque">A platform that allow users to view upcoming events and they can book an event</p>
               <a href="https://www.figma.com/design/dLzpN04yroJcpbashrrN6G/Event-Booking-Management-App?node-id=0-1&t=2Nz2kDcaUXcD116M-1" target="_blank" rel="noopener noreferrer">
     <button className="bg-yellow-500 hover:bg-yellow-400 text-black font-semibold py-4 px-12 rounded mt-8 mr-8">
